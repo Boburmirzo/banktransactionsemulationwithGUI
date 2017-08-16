@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bankemulation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bankemulation-1.0.war">
+      <element id="artifact" artifact-name="bankemulation:war exploded" />
+    </root>
+  </artifact>
+</component>

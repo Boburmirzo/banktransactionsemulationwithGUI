@@ -1,0 +1,6 @@
+[INFO ] 2017-08-15 11:33:48.672 Transaction id: 1, status: SUCCESS, Amount: 100.0, Source account: 100005, Target Account: 100008, Tax: 5.0, Type: INTERNATIONAL.
+[INFO ] 2017-08-15 11:33:48.691 Transaction id: 2, status: SUCCESS, Amount: 100.0, Source account: 100009, Target Account: 100011, Tax: 5.0, Type: INTERNATIONAL.
+[INFO ] 2017-08-15 11:33:48.715 Transaction id: 3, status: SUCCESS, Amount: 100.0, Source account: 100013, Target Account: 100014, Tax: 5.0, Type: INTERNATIONAL.
+[INFO ] 2017-08-16 13:42:57.957 Transaction id: 1, status: SUCCESS, Amount: 100.0, Source account: 100000, Target Account: 100001, Tax: 5.0, Type: INTERNATIONAL.
+[INFO ] 2017-08-16 13:46:20.812 Transaction id: 1, status: SUCCESS, Amount: 200.0, Source account: 100000, Target Account: 100001, Tax: 10.0, Type: INTERNATIONAL.
+[INFO ] 2017-08-16 13:48:12.526 Transaction id: 1, status: SUCCESS, Amount: 100.0, Source account: 100000, Target Account: 100001, Tax: 5.0, Type: INTERNATIONAL.
