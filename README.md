@@ -18,7 +18,7 @@ Asynchronously using a threadpool.
 
 - Clone repository.
 Sh
-$ Git clone https://github.com/Boburmirzo/banktransactionsemulation
+$ Git clone https://github.com/Boburmirzo/banktransactionsemulationwithGUI
 (I.e.
 - Build with maven.
 Sh
